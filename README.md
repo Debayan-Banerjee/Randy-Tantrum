@@ -1,2 +1,2 @@
 # Randy-Tantrum
-Randy Tantrum Jubilee Hands-On Strawberry Facepalm Charlie Doldrum Easily Rollsarm
+Randy Tantrum Jubilee Hands-On Strawberry Facepalm Charlie Doldrum Lastly Phantom
