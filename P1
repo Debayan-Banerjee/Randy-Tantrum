@@ -1,0 +1,74 @@
+P1
+
+Butterfree(*,Bug-1/Fly-1),Pidgeot(Fly-2),Bulbasaur(Grass-1/Poison-1),Squirtle(Water-1),Charizard(Fire-1/Fly-3),Muk(Poison-2),Kingler(Water-2),Tauros(Normal-1),Primape(Fight-1),Buzzwole(Bug-2/Fight-2),Toxicroak(Water-3/Poison-3/Fight-3),Tentacruel(Water-4/Poison-4/Dark-1),Vileplume(Grass-2/Poison-5),Togedemaru(Steel-1/Electric-2),Klinklang(Steel-2/Electric-3),Magnezone(Steel-3/Electric-4),Abomasnow(Grass-3/Ice-1),Avalugg(Steel-4/Ice-2),Whimsicott(Grass-4/Fairy-1),Noctowl(Psychic-1/Fly-4),Meowstic(Psychic-2),Gengar(**,Ghost-1/Poison-6),Pangoro(Dark-2/Fight-4),Emboar(Fire-2/Fight-5),Infernape(Fire-3/Fight-6),Volcarona(Fire-4/Bug-3),Talonflame(Fire-5/Fly-5),Golisopod(Water-5/Bug-4/Fight-7),Galvantula(Electric-5/Bug-5),Pachirisu(Ice-3/Electric-6),Vikavolt(Grass-5/Bug-6/Electric-7),Weezing(Poison/Fairy),Hariyama(Fight-8),Heliolisk(Normal-2/Electric-9),Skarmory(Steel-5/Fly-7), Honchkrow (Dark-3/Fly-8),Celesteela(Steel-6/Fly-9/Psychic-3,PL),(Metagross,(Steel-7/Psychic-4,Pseudo-legend-1)),Aromatisse(Fairy),Xatu(Fly-14/Psychic-8),Impidimp(Dark/Fairy),41
+
+Lapras(Water-7/Ice-4),Snorlax(Normal-3),(Marshadow,(Ghost-2/Fight-9,PL-2)),(Celebi,(Grass-6/Psychic-5,PL-3)),(Sigilyph,(Fly-11/Psychic-6,PL-4)),Chimecho(Psychic-7),Dhelmise(Ghost-3/Grass-7/Water-8),Wigglytuff(Fairy-2/Normal-4),(Suicune,(Water-9/Ground-1,PL-5)),(Volcanion,(Fire-6/Water-10,PL-6)),Hawlucha(Fly-12/Fight-10),Pelipper(Water-11/Fly-13),Floatzel(Water-12),Cresselia(Psychic-9,PL-7),Lumineon(Water-13/Ghost-4),Tornadus(Fly-15,PL-8
+),Huntail(Water-14
+/Psychic-10/Electric),Gorebyss(Water-15/Psychic-11/Electric),Cloyster(Ice/Psychic),Blacephalon(Fire-7/Ghost-5),Primarina(Water-16/Fairy-5),Seismitoad(Water-17/Ground-2),Sharpedo(Water-18/Dark-5),Kaledo(Water-19/Fight,PL-9),Musharna(Psychic),Eldegoss(Grass-9/Fly-16/Psychic),Jynx(Ice/Psychic),Cryogonal(Ice/Dark),Marwak(Ghost/Ground/Fire),29
+
+Heracross(Bug-7/Fight-12),Feraligator(Water-20),Bayleaf(Grass-10),Typhlosion(Fire-8),Luxray(Electric-10),Scrafty(Fight-13/Dark-6),Klefki(Steel-8/Fairy-6),Seviper (Poison-7/Psychic-13),Wormadam(Bug-8/Grass-11/Ground-3/Steel-9),Sawk(Fight-14,PL-10),Golurk(Ghost/Ground/Steel,PL-11),Mawile(Steel-11/Fairy-7),Xerneas(Fairy-8,PL-12),(Mewtwo,(Psychic-15/Fight-15,PL-13)),(Arceus,(Normal-5,PL-14)),(Articuno,(Ice-5/Fly-17),PL-15)),Shedinja(Bug-9/Ghost-6),(Unown,Psychic-16,PL-16),(Banette,Ghost-7,PL-17),(Beeheeyem,Psychic-17,PL-18),(Landorus,Ground-4/Fly-18,PL-19),(Lucario,Steel-12/Psychic-18/Dark-8/Fight-16,PL-20),Bronzong(Steel-13/Psychic-18),(Registeel,Steel-14,PL-21),(Melmetal,Steel-15,PL-22),Pyroar(Fire-9/Normal-6),Mandibuzz(Dark-9/Fly-20),Skuntank(Poison-8/Dark-10),Tsareena(Grass-12/Fight,PL-23),Accelgor(Bug-10/Dark-11),Claydol(Ground-6/Psychic-19),Donphan(Ground-7),(Tyranitar,Rock-1/Dark-12,PL-24),(Solgaleo,Steel-16/Psychic-20,PL-25),Alcremie (Fairy,PL),Swoobat(Fly/Paychic),Drifblim(Ghost/Fly),Corviknight(Fly/Steel/Dark/Psychic),Azelf(Psychic,PL)Mesprit(Psychic,PL),40
+
+Sceptile(Grass-13),Crawdaunt(Water-21/Dark-13),Glalie(Ghost-9/Ice-6),Jellicent(Water-22/Ghost-10),(Magearna,Steel-17/Fairy-9,PL-26),(Tapu Lele,Psychic-22/Fairy-10,PL-27),(Jirachi,Steel-18/Psychic-23/Fairy-11,PL-28),Delphox(Fire-10/Psychic-24),(Meloetta,Normal-7/Fight-17/Psychic-25,PL-29),Zacian(Normal-8/Psychic-26,PL-30),Granbull(Normal-9/Fight-18/Fairy-12),(Regice,Ice-7,PL-31),Kartana(Grass-14/Electric-11/Steel-19),Exeggutter(Grass-15/Psychic-27),Gourgeist(Grass-16/Ghost-11),Alakazam(Psychic-28,PL-32),Passimian(Fight/Dark),Audino(Normal-10/Fairy-13),Obstagoon (Normal-11/Dark-14,PL),(Phione,Water-23,PL-33),Decidueye (Grass-17/Ghost-12/Fly-22),Ampharos(Electric-12/Fairy-14,PL),Electrod(Electric-13/Psychic-30),(Uxie,Psychic-31,PL-34),(Shyamin,Grass-18/Fly-23,PL-35),Ribombee(Bug-11/Fairy-15),Medicham(Psychic-33/Fight-20),Oricorio(Ghost-13/Fire-11/Electric-14/Psychic-34/Fly-24),Mimikyu(Ghost-14/Fairy-17),Sableye(Ghost-15/Dark-16),Lunala(Ghost/Psychic,PL-36),Serperior(Grass-19/Psychic,PL-37),Cherrim(Grass-20/Fairy),Lurantis(Grass-21/Psychic,PL-38),Zoroark(Dark,PL-39),35
+
+Reuniclas(Psychic-35,PL-40),Shiftree(Dark-17/Grass-22),Gardevoir(Psychic-36/Fairy-18),Gallade(Psychic-37/Fight-20),Zebstrika(Electric-15/Dark-18),Bisharp(Steel-20/Dark-19),Weavile(Ice-9/Dark-20),Samurott(Dark-21/Water-24/Ground-8),Salazzle(Fire-12/Poison-9),Plusle(Electric-16/Fire-13),Trevenant(Grass-23/Ghost-16),Houndoom(Fire-14/Dark-22),(Tapu Koko,Electric-17/Fairy-19,PL-41),(Ho-Oh,Fire-15/Fly-25,PL-42),(Entei,Fire-16,PL-43),Shiinotic(Grass/Fairy),Arcanine(Fire,PL),Amoonguss(Grass/Fairy/Poison),Hypno(Psychic,PL),19
+
+Krookodile(Ground-9/Dark-23),Palossand(Ghost-17/Ground-10),Drapion(Poison-10/Dark-24/Bug-12),Mantine(Water-25/Electric-18/Fly-26),Rotom(Ghost-18/Water-26/Ice-10/Fire-17/Grass-24/Fly-27/Electric-19), (Ninetails(Ice/Fairy-20/Fire-18,PL-44)),(Yveltal,Dark-25/Fly-28,PL-45),(Lugia,Fly-29/Psychic-38/Water-27,PL-46),Mismagius(Ghost-19),Spiritomb,(Ghost-20/Dark-26,PL-47),Milotic(Water-28/Grass-25,PL-48),(Genesect,Bug-13/Steel-21,PL-49),(Cobalion,Steel-22/Fight-21,PL-50),(Groudon,Ground-11/Fire-19,PL-51),(Victini(Fire-20/Psychic-39,PL-52)),(Zapdos,Fly-30/Electric-20,PL-53),(Illumise,Bug-14/Electric-21,PL-54),Zamazenta(Normal/Psychic-40,PL-55),(Regigigas,Normal-10,PL-56),(Thundurus,Fly-31/Electric-22,PL-57),(Tapu Fini,Water-29/Fairy-21,PL-58),(Tapu Bulu,Grass-26/Fairy-22,PL-59),Ariados(Bug-15/Poison-11/Psychic-41,PL-60),(Silvally,Water-30/Normal-11,PL-61),(Xkurkitree,Electric-23,PL-62),Throh(Fight,PL),(Gothitelle,Poison-12/Psychic-42,PL-63),27
+
+Noivern(Dark-28/Fly(-32)-Dragon),(Dragonite,Fly(-33)-Dragon,PL-64),(Naganadel,Poison(-13)-Dragon,PL-65),(Palkia,Water(-31)-Dragon,PL-66),(Rayquaza,Fly(-34)-Dragon,PL-67),(Goodra,Psychic-(43)-Dragon,PL-68),(Hoopa,Ghost-21/Dark-29/Psychic-44,PL-69),Aegislash(Steel-23/Ghost-22),(Dialga,Steel(-24)-Dragon,PL-70),(Reshiram,Fire(-21)-Dragon,PL-71),Chanedlure(Fire-22/Ghost-23),(Kyurem,Ice(-11)-Dragon,PL-72),(Hydreigon,Dark-(30)-Dragon,PL-73),(Confragigus,Ghost-24,PL-74),(Zygarde,Dark-31/Ground-12/Psychic-(45)-Dragon,PL-75),(Zekrom,Electric(-24)-Dragon,PL-76),Duraludon (Electeic/Steel-Dragon,PL),(Turtonator,Fire(-23)-Dragon,PL-78),(Guzzlord,Ground-13/Dark-(32)-Dragon,PL-79),(Flygon,Ground-14/Fly(-35)-Dragon,PL-80),(Latios,Psychic-(46)-Dragon,PL-81),(Giratina,Ghost-(25)-Dragon,PL-82),(Garchomp,Ground(-15)-Dragon,PL-83),Altaria(Fly/Fairy-Dragon),Tropius(Grass/Fly-Dragon,PL),Dragalge(Water/Psychic/Poison-Dragon),26
+
+(Ultranercozma,Psychic-47/Dark-33/Steel/Ghost-(26)-Dragon,PL-84)
+Darmantian(Fire-24/Psychic-47)
+Alomomola(Water-32/Fairy-23),3
+
+Lycanroc(Rock-2),(Darkrai,Dark-34,PL-85),(Deoxys,Psychic-48,PL-86),Malamar(Psychic-49/Dark-35),Dusknoir(Ghost-27),(Zeraora,Electric-26,PL-87),(Tryrantum,Rock(-3)-Dragon,PL-88),Druddigon(Rock-4/Fly(-36)-Dragon,PL-89),(Diancie,Rock-5/Fairy-24,PL-90),Solrock(Rock-6/Psychic-50),(Porygon,Normal-12/Rock-7,PL-91),(Nihilego,Poison-14/Water-33/Rock-8,PL-92),(Aurorus,Ice-12/Fairy-25/Rock(-9)-Dragon,PL-93),(Regirock,Rock-10,PL-94),(Terrakion,Rock-11/Fight-24,PL-95),Rampardos(Fight-25/Rock-12),Aggron(Rock-13/Steel-25),Carbink(Rock-14/Fairy-26),Drednaw(Water-34/Rock-15/Dark-36,PL),(Scolipede,(Bug-16/Poison-15,PL-96)),Raikou(Electric,PL),Salamence(Fly-Dragon,PL),(Moltres,Fire-25/Fly-38,PL-98),Minior(Rock/Fly/Ghost),Polteageist(Ghost),Aerodactyl(Rock/Fly,PL),(Heatran,Fire-26/Steel-26,PL-99),Greninja(Dark-37/Water-35),Incineroar(Dark-38/Fire-27),29
+
+(250)
+
+Meowstic,Whimsicott,Pangoro,Gengar,Honchkrow,Metagross,Celesteela(7)
+
+Marshadow,Celebi,Wigglytuff,Sigilyph,Chimecho,Impidimp,Tornadus,Xatu,Shiinotic,Braviary,Blacephalon,Pyukumuku,Lumineon,Slowking,Luvdisc,Suicune,Volcanion,Dhelmise(18,25)
+
+Scrafty,Mawile,Klefki,Registeel,Melmetal,Unown,Claydol,Banette,Beeheeyem,Drifblim,Shedinja,Skuntank,Bronzong,Arceus,Landorus,Lucario,Mewtwo,Mandibuzz,Accelgor,Sawk,Xerneas,Corviknight,Seviper,Tyranitar,Solgaleo(25,50)
+
+Jellicent,Glalie,Cresselia,Uxie,Shyamin,Medicham,Granbull,Meloetta,Delphox,Audino,Electrod,Dedenne,Gourgeist,Musharna,Magearna,Decidueye,Tapu Lele,Jirachi,Ribombee,Zoroark,Aromatisse,Oricorio,Mimikyu,Sableye,Phione,Kaledo,Zacian,Alakazam,Exeggutter,Obstagoon,Swoobat,Regice,Crawdaunt(33,83)
+
+Reuniclas,Shiftree,Trevenant,Gardevoir,Gallade,Houndoom,Zebstrika,Bisharp,Tapu Koko,Ho-Oh,Entei,Weavile,Samurott(13,96)
+
+Krookodile,Drapion,Palossand,Tapu Bulu,Xkurkitree,Passimian,Ninetails,Mismagius,Spiritomb,Yveltal,Gothitelle,Zapdos,Regigigas,Genesect,Cobalion,Groudon,Victini,Ariados,Illumise,Rotom,Thundurus,Tapu Fini,Zamazenta,Silvally,Lugia,Milotic(26,122)
+
+Noivern,Dragonite,Naganadel,Rayquaza,Goodra,Hoopa,Aegislash,Dialga,Reshiram,Chanedlure,Turtonator,Hydreigon,Confragigus,Zygarde,Zekrom,Raikou,Flygon,Guzzlord,Latios,Giratina,Garchomp,Palkia,Kyurem,(23,145)
+
+Ultranercozma,Darmantian,Alomomola,(3,148)
+
+Darkrai,Deoxys,Malamar,Dusknoir,Zeraora,Tryrantum,Diancie,Solrock,Carbink,Terrakion,Regirock,Porygon,Altaria,Carracosta,Scolipede,Throh,Moltres,Heatran,Greninja,Incineroar,Aurorus,Nihilego(22,170)
+
+
+Out-Door Guard(2)
+Fly(2+2)+Electric(2+2)
+In-Guard(2)
+Electric(2+2),Poison(2+2),Grass(2+2),Psychic(2+2)
+Middle Guard(2)
+Grass(2+2),Poison(2+2),Psychic(2+2)
+Reservation Door Out(2)
+Psychic(2+2),Poison(2+2)
+Reservation Door In(2)
+Psychic(2+2),Poison(2+2),Grass(2+2),Electric(2+2)
+Treat-Group(2)
+Security(2)
+Power+Communication(2),72
+
+
+(Zekrom,Garchomp),74
+
+(Dragonite,Rayquaza,Glalie,Articuno),78
+
+(6+2+1,First Wall)+(4+2+1,Protection Wall)+1(Observe Protection)+2 Comm,97(Out,Walls)
+(4+2+1),104,2nd Wall
+3+1+1,109,Gym Wide Wall
+2+1+1,113,Reservation Wall
+(10+5),15,128(Dozing System)
+(3+2)+(5+2),140,(Dozing System Guards)
+4+2,Room+Guard,146
+1+2,Comm+Assistance,149
+1 Main,150{+20}
+
