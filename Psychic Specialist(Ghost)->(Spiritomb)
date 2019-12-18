@@ -11,21 +11,22 @@ Yellowrust City Gym Leader
 
 
 17(7)-19(10),Kanto
-20(0)-22(5),Unova
-22(9)-25(1),Kalos
-25(3)-29(2),Yellowrust City Gym Leader(Full)
-29(3)-30(9),Sensational Sisters/
-30(10)-34(11),Yellowrust City Gym Leader
-35(3)-41(9),Vaniville Town@Kalos(Opening)
+19(11)-22(4),Unova
+22(6)-24(10),Kalos
+25(0)-29(2),Yellowrust City Gym Leader(Full)
+29(3)-29(8),Sensational Sisters@Support
+29(9)-30(8),Sensational Sisters@Johto(Full)
+30(11)-34(11),Yellowrust City Gym Leader
+35(3)-41(9),Vaniville Town@Johto(Own_Rakim)
 41(6),HoF
 
-25(4)-27(7),Hoenn
-27(10)-29(0),Ransei
-29(3)-31(6),Johto
-31(9)-34(0),Sinnoh
-34(1)-35(3),Pasio
-35(6)-36(8),Twinleaf Town@Sinnoh(Own_Gym)
-37(7)-41(9),Twinleaf Town@Sinnoh(Own Gym)
+25(0)-27(3),Hoenn
+27(5)-28(7),Ransei
+28(8)-30(11),Johto
+31(1)-33(4),Sinnoh
+33(8)-34(10),Pasio
+35(3)-36(8),Twinleaf Town@Johto(Own Gym)
+37(7)-41(9),Twinleaf Town@Johto(Own Gym)
 
 17(0)-19(3),19(6)-20(8),20(11)-23(2),23(5)-25(9),Kalos
 26(0)-28(5),Unova
@@ -42,3 +43,12 @@ Cedar Ortiz@Lillie's Class
 Gladys Iptil-Ketchum Ortiz@Rakim++_Age
 
 Primary_Degree
+
+
+14(0)-19(11),Electronics@Viridian
+20(3)-23(8),Service1@Johto@Electronics
+24(0)-29(8),Research@Viridian
+30(0)-33(5),Service2@Hoenn@Electronics
+33(9)-35(11),Post_Research@Viridian
+36(3)-41(11),Rochana's Company
+42(0)-,Rochana's Company@7_City_Conglomerate
