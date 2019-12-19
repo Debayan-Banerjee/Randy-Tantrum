@@ -28,27 +28,33 @@ Yellowrust City Gym Leader
 35(3)-36(8),Twinleaf Town@Johto(Own Gym)
 37(7)-41(9),Twinleaf Town@Johto(Own Gym)
 
-17(0)-19(3),19(6)-20(8),20(11)-23(2),23(5)-25(9),Kalos
+
+John Harrison
+
+17(0)-19(3),Kanto
+19(6)-20(8),Pasio
+20(11)-23(2),Johto
+23(5)-25(9),Kalos
 26(0)-28(5),Unova
 28(8)-29(10),Ransei
 30(1)-32(4),Hoenn
 32(7)-34(10),Sinnoh
 35(0)-,Yellowrust City Gym Leader
 
-Cedar(Technicals),Gladys(Administration->Togekiss,Archeops)
+Cedar(Technicals),Gladys(Service->Togekiss,Archeops)
 
 Zara@Lawyer
 
-Cedar Ortiz@Lillie's Class
+Cedar Ortiz
 Gladys Iptil-Ketchum Ortiz@Rakim++_Age
 
 Primary_Degree
 
 
-14(0)-19(11),Electronics@Viridian
-20(3)-23(8),Service1@Johto@Electronics
-24(0)-29(8),Research@Viridian
-30(0)-33(5),Service2@Hoenn@Electronics
-33(9)-35(11),Post_Research@Viridian
-36(3)-41(11),Rochana's Company
-42(0)-,Rochana's Company@7_City_Conglomerate
+Muntasir@Data,Cedar@Signals(Twins->Pallet_High)
+
+Muntasir,13(0)-17(11),Data@Frucient
+Cedar,13(0)-17(11),Signals@Frucient
+
+12(6)-14(),Cerulean
+14(6)-19(8),Cerulean@Work
