@@ -59,15 +59,17 @@ Jason,43[44,August](Sinnoh)/Stuart McShin,43[44,September](Kanto)
 
 (Maymuun,39[40]@Unova+Sonrisa,42[43,December]@Unova)/(Samroze,39[40]@Unova+Solaria,42[43,December@Unova])
 
-20(0)-22(8),Sinnoh(W)/20(1)-22(10),Sinnoh(W)/20(2)-22(11),Sinnoh(W)/20(1)-22(9),Sinnoh(W)
-22(11)-25(8),Unova(W)/23(1)-25(10),Unova(W)/23(2)-25(11),Unova(W)/23(0)-25(9),Unova(W)
-25(11)-28(7),Hoenn(W)/26(2)-28(10),Hoenn(W)/26(3)-28(11),Hoenn(W)/26(0)-28(8),Hoenn(W)
+Maymuun/Sonrisa/Samroze/Solaria
+
+20(0)-22(8),Sinnoh(W)/20(1)-22(10),Sinnoh(W)/20(1)-22(9),Sinnoh(W)/20(2)-22(11),Sinnoh(W)
+22(11)-25(8),Unova(W)/23(1)-25(10),Unova(W)/23(0)-25(9),Unova(W)/23(2)-25(11),Unova(W)
+25(11)-28(7),Hoenn(W)/26(2)-28(10),Hoenn(W)/26(0)-28(8),Hoenn(W)/26(3)-28(11),Hoenn(W)
 29(2)-30(10),Ransei(^)/29(2)-30(10),Ransei(^)/29(2)-30(10),Ransei(^)/29(2)-30(10),Ransei(^)
 31(2)-33(10),Kalos(R.U,Sonrisa)/31(2)-33(10),Kalos(W,Maymuun)/31(3)-33(11),Kalos(R.U,Solaria)/31(3)-33(11),Kalos(W,Samroze)
 34(2)-36(10),Kanto(W,Solaria)/34(1)-36(9),Kanto(R.U,Samroze)/34(2)-36(10),Kanto(W,Sonrisa)/34(1)-36(9),Kanto(R.U,Maymuun)
 37(0)-38(8),Pasio(W)/37(1)-38(9),Pasio(W)/37(2)-38(10),Pasio(W)/37(3)-38(11),Pasio(W)
-38(11)-39(11),Unova Frontier(W)/39(0)-40(0),Unova Frontier(W)/39(1)-40(1),Unova Frontier(W)/39(2)-40(2),Unova Frontier(W)
-40(2)-42(10),Johto(W)/40(3)-42(11),Johto(W)/40(4)-43(0),Johto(W)/40(5)-43(1),Johto(W)
+38(11)-39(11),Unova Frontier(W)/39(1)-40(1),Unova Frontier(W)/39(0)-40(0),Unova Frontier(W)/39(2)-40(2),Unova Frontier(W)
+40(2)-42(10),Johto(W)/40(4)-42(0),Johto(W)/40(3)-43(11),Johto(W)/40(5)-43(1),Johto(W)
 
 44(6),HoF(6-0,Marc,Baekhyun)/44(6),HoF(6-0,Percy,Cynthia)/44(6),HoF(6-0,Jason,Ivana)/44(7),HoF(6-0,Stuart McShin,Wendy)
 
@@ -113,11 +115,11 @@ Nigel(Kalos),44[45,June]/Samantha(Kalos),44[45,June]
 
 38(3),HoF(7-1)/38(4),HoF(7-1)
 
-Paul(Ransei-1),42[43,December]/Ritchie(Kanto),42[43,December]
+Paul(Ransei-1),42[43,December]/Ritchie(Kanto),42[42,January]
 
 17(5)-19(1),Pasio(W)/17(6)-20(2),Kanto(R512,*)
 19(2)-21(10),Sinnoh(W)/20(3)-22(11),Johto(W)
-22(1)-24(9),Johto(R128,*(by)^^)/23(0)-25(8),Kalos(W)
+22(1)-24(9),Johto(R128,^^(by)*,bunch)/23(0)-25(8),Kalos(W)
 25(3)-26(3),Sinnoh Frontier(W)/25(9)-28(5),Unova(W)
 26(6)-28(2),Ransei(W)/28(7)-30(3),Ransei(R.U,Nigel)
 28(5)-31(1),Kalos(R.U,Samantha)/30(5)-32(1),Pasio(W)
