@@ -1,11 +1,11 @@
 David,41[42,February-6](Sinnoh(Original)/Kanto(TR.Ucvr->Double))/Galaxy,42[43,October-1](Kanto)/Iris,41[42,March-1](Unova)
-17(7)-20(3),Sinnoh(W)/17(0)-19(8),Hoenn(W,Lance,F)/17(6)-20(2),Johto(W)
-20(4)-21(4),Sinnoh Frontier(W)/19(11)-22(7),Kanto(W)/20(4)-22(0),Ransei(W)
-21(5)-24(1),Kalos(W)/22(10)-23(10),Kanto Frontier(W)/22(2)-24(10),Kalos(W)
-24(3)-25(11),Pasio(W)/24(1)-26(9),Kalos(W)/25(0)-26(8),Pasio(W)
-26(1)-28(9),Hoenn(W)/27(0)-28(8),Pasio(W,Percy,F)/26(10)-29(6),Hoenn(W,Scarlett)
-29(0)-30(8),Ransei(R.U,Marc)/28(11)-30(7),Ransei(W)/29(8)-32(4),Sinnoh(W,Clyde,F)
-30(10)-33(6),Johto(W,Galaxy,F)/30(10)-33(6),Johto(R.U,David)/32(5)-33(5),Unova Frontier(W)
+17(7)-20(3),Sinnoh(W)/17(0)-19(8),Kanto(W,Gary,F)/17(6)-20(2),Hoenn(W)
+20(4)-23(0),Hoenn(W,Ritchie,F)/19(11)-22(7),Hoenn(W,Lance)/20(3)-22(11),Kalos(W)
+23(2)-25(10),Kalos(W)/22(10)-23(10),Kanto Frontier(W,Lance)/23(1)-25(9),Sinnoh(W)
+26(0)-27(8),Pasio(W)/24(1)-26(9),Kalos(W)/25(10)-27(6),Ransei(W)
+27(9)-28(9),Sinnoh Frontier(W)/27(0)-28(8),Pasio(W,Percy,F)/27(9)-30(5),Johto(W,Scarlett,F)
+29(0)-30(8),Ransei(R.U,Marc)/28(11)-30(7),Ransei(W)/30(8)-32(4),Pasio(W,Clyde,F)
+30(10)-33(6),Johto(W,Galaxy,F)/30(10)-33(6),Johto(R.U,David)/32(6)-33(6),Unova Frontier(W)
 33(8)-36(4),Unova(R512,*)/33(8)-36(4),Unova(QF,^^)/33(8)-36(4),Unova(SF,^^)
 {36(11)-37(5)-27,TR.Ucvr}/36(9)-39(5),Sinnoh(W)/{36(11)-37(5)-27,TR.Ucvr}
 37(7)-40(3),Kanto(W,Iris,F)/../37(6)-40(3),Kanto(R.U,David)
@@ -15,7 +15,7 @@ David,41[42,February-6](Sinnoh(Original)/Kanto(TR.Ucvr->Double))/Galaxy,42[43,Oc
 
 Mr Marc Litman/Mr Percy Karsot
 
-Marc,44[45,May](Unova)/Percy,44[45,March](Kalos)
+Marc,44[45,March](Unova)/Percy,44[45,May](Kalos)
 
 14(7)-17(3),Kalos(W)/14(6)-17(2),Kalos(W)
 19(6)-20(2),Kanto(SF,*)/19(6)-20(2),Kanto(QF,*)
@@ -31,45 +31,43 @@ Marc,44[45,May](Unova)/Percy,44[45,March](Kalos)
 
 Clyde,41[42,March](Kanto)/Scarlett,41[42,May](Kanto)
 
-17(6)-20(2),Kanto(R128,*)/17(6)-20(2),Kanto(R256,*)
-20(3)-21(11),Ransei(W)/20(4)-22(0),Pasio(W)
-22(0)-23(8),Pasio(W)/22(1)-23(9),Ransei(W)
-23(10)-26(6),Unova(W,Jason,F)/23(11)-26(7),Unova(W)
-26(9)-29(5),Hoenn(W)/26(10)-29(6),Hoenn(R.U,Iris)
-29(8)-32(4),Sinnoh(R.U,Iris)/29(9)-32(5),Sinnoh(W)
-32(7)-35(3),Kalos(W)/32(8)-35(4),Kalos(W,Stuart McShin,F)
-35(6)-38(2),Johto(W)/35(7)-38(3),Johto(W)
-38(5)-39(5),Kanto Frontier(W)/38(6)-39(6),Kanto Frontier(W)
+17(6)-19(2),Ransei(W\D,Scarlett)/17(6)-19(2),Ransei(W\D,Clyde)
+19(3)-21(11),Unova(W)/19(4)-22(0),Unova(W)
+22(1)-24(9),Sinnoh(W)/22(2)-24(10),Sinnoh
+24(10)-27(6),Hoenn(R.U,*)/24(11)-27(7),Hoenn(R.U,^)
+27(11)-30(7),Johto(W,Jason)/27(9)-30(5),Johto(R.U,Iris)
+30(8)-32(4),Pasio(R.U,Iris)/30(9)-32(5),Pasio(W,Stuart McShin)
+32(6)-35(2),Kalos(W)/32(7)-35(3),Kalos(W)
+35(5)-38(1),Kanto(W)/35(6)-38(2),Kanto(W)
+38(4)-39(4),Kanto Frontier(W)/38(5)-39(5),Kanto Frontier(W)
 
-40(11),HoF(8-0)/41(0),HoF(8-0)
+40(10),HoF(8-0)/40(11),HoF(8-0)
 
 Jason,43[44,August](Sinnoh)/Stuart McShin,43[44,September](Kanto)
 
 16(2)-18(10),Hoenn(W)/16(0)-18(8),Kanto(W)
 19(0)-21(8),Kanto(W)/18(10)-21(6),Johto(W)
-21(11)-23(7),Pasio(W)/21(9)-23(5),Pasio(W)
-23(10)-26(6),Unova(R.U,Clyde)/23(8)-26(4),Unova(W)
+21(9)-23(5),Pasio(W)/21(8)-23(4),Ransei(W)
+23(7)-26(3),Unova(W,Jack)/23(8)-26(4),Unova(W)
 26(8)-27(8),Sinnoh Frontier(W)/26(7)-29(3),Hoenn(W,Joel,F)
-27(11)-30(7),Johto(W)/29(6)-30(6),Kanto Frontier(R.U,*)
-30(9)-33(5),Sinnoh(R16,*)/30(9)-32(5),Ransei(W)
-33(8)-36(4),Kalos(W,Jack,F)/32(8)-35(4),Kalos(R.U,Scarlett)
+27(11)-30(7),Johto(R.U,Clyde)/29(6)-30(6),Kanto Frontier(R.U,*)
+30(9)-33(5),Sinnoh(R16,*)/30(9)-32(5),Pasio(R.U,Scarlett)
+33(8)-36(4),Kalos(W,Jack,F)/32(8)-35(4),Kalos(W)
 36(7)-38(3),Ransei(W)/35(7)-38(3),Sinnoh(W)
 
 39(9),HoF(7-0)/39(9),HoF(7-0)
 
 (Maymuun,39[40]@Unova+Sonrisa,42[43,December]@Unova)/(Samroze,39[40]@Unova+Solaria,42[43,December@Unova])
 
-Maymuun/Sonrisa/Samroze/Solaria
-
-20(0)-22(8),Sinnoh(W)/20(1)-22(10),Sinnoh(W)/20(1)-22(9),Sinnoh(W)/20(2)-22(11),Sinnoh(W)
-22(11)-25(8),Unova(W)/23(1)-25(10),Unova(W)/23(0)-25(9),Unova(W)/23(2)-25(11),Unova(W)
-25(11)-28(7),Hoenn(W)/26(2)-28(10),Hoenn(W)/26(0)-28(8),Hoenn(W)/26(3)-28(11),Hoenn(W)
+20(0)-22(8),Sinnoh(W)/20(1)-22(10),Sinnoh(W)/20(2)-22(11),Sinnoh(W)/20(1)-22(9),Sinnoh(W)
+22(11)-25(8),Unova(W)/23(1)-25(10),Unova(W)/23(2)-25(11),Unova(W)/23(0)-25(9),Unova(W)
+25(11)-28(7),Hoenn(W)/26(2)-28(10),Hoenn(W)/26(3)-28(11),Hoenn(W)/26(0)-28(8),Hoenn(W)
 29(2)-30(10),Ransei(^)/29(2)-30(10),Ransei(^)/29(2)-30(10),Ransei(^)/29(2)-30(10),Ransei(^)
 31(2)-33(10),Kalos(R.U,Sonrisa)/31(2)-33(10),Kalos(W,Maymuun)/31(3)-33(11),Kalos(R.U,Solaria)/31(3)-33(11),Kalos(W,Samroze)
 34(2)-36(10),Kanto(W,Solaria)/34(1)-36(9),Kanto(R.U,Samroze)/34(2)-36(10),Kanto(W,Sonrisa)/34(1)-36(9),Kanto(R.U,Maymuun)
 37(0)-38(8),Pasio(W)/37(1)-38(9),Pasio(W)/37(2)-38(10),Pasio(W)/37(3)-38(11),Pasio(W)
-38(11)-39(11),Unova Frontier(W)/39(1)-40(1),Unova Frontier(W)/39(0)-40(0),Unova Frontier(W)/39(2)-40(2),Unova Frontier(W)
-40(2)-42(10),Johto(W)/40(4)-42(0),Johto(W)/40(3)-43(11),Johto(W)/40(5)-43(1),Johto(W)
+38(11)-39(11),Unova Frontier(W)/39(0)-40(0),Unova Frontier(W)/39(1)-40(1),Unova Frontier(W)/39(2)-40(2),Unova Frontier(W)
+40(2)-42(10),Johto(W)/40(3)-42(11),Johto(W)/40(4)-43(0),Johto(W)/40(5)-43(1),Johto(W)
 
 44(6),HoF(6-0,Marc,Baekhyun)/44(6),HoF(6-0,Percy,Cynthia)/44(6),HoF(6-0,Jason,Ivana)/44(7),HoF(6-0,Stuart McShin,Wendy)
 
@@ -78,11 +76,11 @@ Jack(Sinnoh),42[43,October]/Joel(Sinnoh-3),42[43,November]
 17(1)-18(9),Ransei(W)/17(0)-18(8),Ransei(W)
 18(10)-21(6),Kanto(W)/18(10)-20(6),Pasio(W)
 21(8)-23(4),Pasio(W)/20(9)-23(5),Unova(W)
-23(7)-26(3),Unova(W)/23(8)-26(4),Johto(W,Mateo,F)
+23(7)-26(3),Unova(R.U,Jason)/23(8)-26(4),Johto(W,Mateo,F)
 26(6)-29(2),Johto(W,Gabriel,F)/26(7)-29(3),Hoenn(R.U,Stuart McShin)
 29(5)-30(5),Sinnoh Frontier(W)/29(6)-30(6),Sinnoh Frontier(W)
 30(9)-33(5),Sinnoh(SF,*)/30(9)-33(5),Sinnoh(QF,*)
-33(8)-36(4),Kalos(R.U,Jason)/33(8)-36(4),Kanto(W)
+33(10)-36(6),Kalos(W)/33(8)-36(4),Kanto(W)
 37(7)-40(3),Hoenn(W)/37(7)-40(3),Johto(W)
 
 41(9),HoF(7-1)/41(9),HoF(7-1)
@@ -115,19 +113,19 @@ Nigel(Kalos),44[45,June]/Samantha(Kalos),44[45,June]
 
 38(3),HoF(7-1)/38(4),HoF(7-1)
 
-Paul(Ransei-1),42[43,December]/Ritchie(Kanto),42[42,January]
+Paul(Ransei-1),42[43,March]/Ritchie(Kanto),42[43,April]
 
-17(5)-19(1),Pasio(W)/17(6)-20(2),Kanto(R512,*)
-19(2)-21(10),Sinnoh(W)/20(3)-22(11),Johto(W)
-22(1)-24(9),Johto(R128,^^(by)*,bunch)/23(0)-25(8),Kalos(W)
-25(3)-26(3),Sinnoh Frontier(W)/25(9)-28(5),Unova(W)
+17(6)-20(3),Hoenn(W)/17(6)-20(3),Kanto(W)
+20(4)-22(0),Ransei(W)/20(4)-23(0),Hoenn(R.U,David)
+22(1)-24(9),Johto(R128,*(by)^^)/23(1)-25(9),Kanto(W)
+25(3)-26(3),Sinnoh Frontier(W)/25(10)-28(6),Unova(W)
 26(6)-28(2),Ransei(W)/28(7)-30(3),Ransei(R.U,Nigel)
 28(5)-31(1),Kalos(R.U,Samantha)/30(5)-32(1),Pasio(W)
 31(4)-34(0),Unova(W,Ebtissam,F)/32(7)-35(3),Sinnoh(W,Sapphire,F)
 34(3)-36(11),Kanto(W)/35(6)-36(6),Kanto Frontier(W)
-37(3)-39(11),Hoenn(W)/36(9)-39(5),Hoenn(W)
+37(3)-39(11),Sinnoh(W)/37(1)-39(9),Johto(W)
 
-41(5),HoF(7-1)/40(11),HoF(7-1)
+41(5),HoF(7-1)/41(3),HoF(7-1)
 
 Cynthia(Johto),44[45]/Ivana(Hoenn),44[45]/Wendy(Pasio),44[45]/Wilhelm(Kanto)/Tallulah(Kanto)
 
@@ -164,8 +162,8 @@ Nancy(Unova)/Blink(Unova)
 22(0)-24(8),Unova(W)/23(9)-24(9),Unova Frontier(W)
 24(11)-27(7),Kanto(R.U,Ebtissam)/24(11)-27(7),Unova(R.U,Sapphire)
 27(10)-30(6),Johto(W,Lasha)/27(10)-30(6),Kanto(W,Yvonne)
-30(9)-32(5),Pasio(W)/30(10)-32(6),Ransei(W)
-32(8)-34(4),Ransei(W)/32(9)-34(5),Pasio(W)
+30(9)-32(5),Ransei(W)/30(10)-32(6),Ransei(W)
+32(8)-34(4),Pasio(W)/32(9)-34(5),Pasio(W)
 34(8)-37(4),Hoenn(W)/34(8)-37(4),Sinnoh(W)
 37(7)-40(3),Kalos(R.U,*)/37(7)-40(3),Kalos(QF,*)
 
@@ -176,7 +174,7 @@ Lasha(Sinnoh)/Yvonne(Sinnoh)
 17(0)-19(8),Sinnoh(W)/17(1)-19(9),Hoenn(W)
 19(10)-20(10),Sinnoh Frontier(W)/19(10)-21(6),Ransei(W)
 21(1)-22(9),Pasio(W)/21(9)-22(9),Sinnoh Frontier(W)
-23(1)-25(9),Kalos(W)/23(2)-24(10),Pasio(W)
+23(1)-25(9),Kalos(W,Toshib)/23(2)-24(10),Pasio(W)
 25(11)-27(7),Ransei(W)/25(0)-27(8),Kalos(W,Biming)
 27(10)-30(6),Johto(R.U,Nancy)/27(10)-30(6),Kanto(R.U,Blink)
 30(9)-33(5),Kanto(W)/30(9)-33(5),Johto(W) 
@@ -262,7 +260,7 @@ Bartholomew(Unova)/Chigusa(Unova)
 17(11)-20(7),Kanto(W)/17(10)-20(6),Kanto(W)
 20(9)-23(5),Johto(W)/20(8)-23(4),Johto(W)
 23(8)-24(8),Unova Frontier(W)/23(7)-24(7),Unova Frontier(W)
-24(11)-27(7),Hoenn(^)/24(11)-27(7),Hoenn(*)
+24(11)-27(7),Hoenn(^)/24(10)-27(6),Hoenn(*)
 27(9)-30(5),Kalos(W,Magnolia)/28(10)-30(6),Kalos(W)
 30(9)-33(5),Unova(R.U,Homa)/31(0)-33(8),Unova(R.U,Lusamine)
 33(8)-35(4),Pasio(W)/34(0)-35(8),Pasio(W)
@@ -347,7 +345,7 @@ Unam(Pasio)/Aravi(Pasio)
 17(11)-20(7),Sinnoh(W)/18(0)-20(8),Sinnoh(W)
 20(9)-21(9),Kanto Frontier(W)/20(10)-21(10),Kanto Frontier(W)
 21(11)-24(7),Kalos(W)/22(0)-24(8),Kalos(W)
-24(11)-27(7),Hoenn(^)/24(11)-27(7),Hoenn(*)
+24(11)-27(7),Hoenn(^)/24(10)-27(6),Hoenn(*)
 28(0)-30(8),Unova(W,Ladeidra)/27(10)-29(6),Ransei(W,Baekhyun)
 30(11)-32(7),Pasio(R.U,Deontay)/29(9)-31(5),Pasio(R.U,Brishna)
 32(10)-34(6),Ransei(W)/31(8)-34(4),Unova(W)
@@ -358,10 +356,10 @@ Unam(Pasio)/Aravi(Pasio)
 
 Baekhyun(Ransei)/Ladeidra(Ransei)
 
-17(6)-19(2),Pasio(W)/17(7)-20(3),Kanto(W)
-19(3)-21(11),Kalos(W)/20(4)-23(0),Sinnoh(W)
-22(0)-24(8),Kanto(W)/23(1)-24(9),Ransei(W)
-24(11)-27(7),Hoenn(^)/24(11)-27(7),Hoenn(*)
+17(6)-19(2),Pasio(W)/17(8)-19(4),Ransei(W)
+19(3)-21(11),Kalos(W)/19(5)-22(1),Kanto(W)
+22(0)-24(8),Kanto(W)/22(2)-24(10),Johto(W)
+24(10)-27(6),Hoenn(^)/24(11)-27(7),Hoenn(*)
 27(10)-29(6),Ransei(W,Aravi)/28(0)-30(8),Unova(R.U,Unam)
 29(9)-32(5),Unova(W,Ayaz)/30(11)-33(7),Kalos(W,Patricia)
 32(8)-35(4),Sinnoh(W)/33(10)-35(6),Pasio(W)
@@ -375,7 +373,7 @@ Ayaz(Unova)/Patricia(Unova)
 17(2)-18(10),Ransei(W)/17(1)-19(9),Kanto(W)
 19(0)-21(8),Kalos(W)/20(1)-21(9),Pasio(W)
 21(11)-24(7),Sinnoh(W)/21(11)-24(7),Unova(W)
-24(11)-27(7),Hoenn(^)/24(11)-27(7),Hoenn(*)
+24(11)-27(7),Hoenn(^)/24(10)-27(6),Hoenn(*)
 27(9)-29(5),Pasio(W,Seymour)/27(9)-28(9),Unova Frontier(W)
 29(9)-32(5),Unova(R.U,Baekhyun)/29(0)-30(9),Ransei(W,Merlot)
 32(8)-33(8),Unova Frontier(W)/30(11)-33(7),Kalos(R.U,Ladeidra)
@@ -389,7 +387,7 @@ Seymour(Kalos)/Merlot(Kalos)
 17(3)-18(11),Ransei(W)/17(0)-18(8),Pasio(W)
 19(1)-21(9),Unova(W)/18(10)-21(6),Kalos(W)
 22(1)-24(9),Johto(*)/21(10)-24(6),Unova(W)
-24(10)-27(6),Kalos(W)/24(11)-27(7),Hoenn(*)
+24(10)-27(6),Kalos(W)/24(10)-27(6),Hoenn(*)
 27(9)-29(5),Pasio(R.U,Ayaz)/27(10)-28(10),Kalos Frontier(W)
 29(7)-32(3),Sinnoh(W,Ferdinand)/29(1)-30(9),Ransei(R.U,Patricia)
 32(6)-35(2),Kanto(W)/31(0)-33(8),Kanto(W,Mikhail)
@@ -476,7 +474,7 @@ Arsene(Unova)/Constance(Unova)
 24(11)-27(8),Unova(W)/24(9)-27(5),Kalos(W)
 27(9)-29(5),Ransei(*)/27(9)-29(5),Ransei(*)
 29(8)-30(8),Unova Frontier(W)/29(8)-32(4),Hoenn(W,Celmira)
-30(10)-33(6),Hoenn(W,Onora)/32(6)-33(6),Unova Frontier(W)
+30(10)-33(6),Hoenn(W,Onora)/32(5)-33(5),Unova Frontier(W)
 33(8)-36(4),Sinnoh(R.U,Alastair)/33(9)-36(5),Sinnoh(R.U,Payam)
 36(11)-39(7),Johto(W)/37(0)-39(8),Johto(W)
 
@@ -498,7 +496,7 @@ Onora(Kalos)/Celmira(Kalos)
 
 Frantz(Kanto)/Bianca(Unova)
 
-17(6)-19(2),Ransei(W)/17(9)-20(5),Sinnoh(W)
+17(7)-19(3),Ransei(W)/17(9)-20(5),Sinnoh(W)
 19(4)-21(0),Pasio(W)/20(8)-22(4),Ransei(W)
 21(2)-23(10),Unova(W)/22(7)-25(3),Unova(W)
 24(0)-26(8),Kalos(W)/25(6)-26(6),Unova Frontier(W)
@@ -529,11 +527,11 @@ Dillon(Johto)/Augusta(Hoenn)
 15(6)-18(2),Sinnoh(W)/15(7)-18(3),Sinnoh(W)
 18(4)-20(0),Ransei(W)/18(5)-20(1),Ransei(W)
 20(2)-21(10),Pasio(^)/20(3)-21(11),Pasio(*)
-22(2)-24(10),Johto(W)/22(3)-24(11),Kanto(W,Logan)
+22(2)-24(11),Johto(W)/22(3)-24(11),Kanto(W,Logan)
 25(3)-27(11),Kalos(W,Visola)/25(3)-26(3),Hoenn Frontier(W)
 27(9)-30(5),Hoenn(R.U,Prue)/26(9)-29(5),Sinnoh(R.U,Glimmer)
 30(8)-33(4),Unova(W)/29(8)-32(4),Unova(W)
-33(7)-36(3),Kanto(W)/32(6)-35(2),Kalos(W)
+33(7)-36(3),Kanto(W)/32(5)-35(1),Kalos(W)
 36(5)-37(5),Johto Frontier(W)/35(4)-38(0),Johto(W)
 
 38(11),HoF/39(6),HoF
@@ -584,7 +582,7 @@ Sulamita(Kalos)/Bonaventura(Kalos)
 
 18(0)-20(8),Johto(W)/17(8)-20(4),Johto(W)
 21(3)-22(11),Pasio(W)/20(5)-22(1),Ransei(W)
-23(2)-24(10),Ransei(W)/22(4)-25(0),Kalos(W)
+23(3)-24(11),Ransei(W)/22(4)-25(0),Kalos(W)
 25(1)-27(9),Kalos(W)/25(2)-27(10),Hoenn(W)
 28(0)-30(8),Sinnoh(R.U,Tilal)/28(1)-30(9),Sinnoh(R.U,Douglas)
 30(9)-33(5),Hoenn(W,Titan)/30(10)-31(10),Kalos Frontier(W)
@@ -610,9 +608,9 @@ Titan(Pasio)/Fiona(Ransei)/Sirichai(Kanto)
 
 Sakura(Kanto),55[56]/Trevor(Sinnoh),50[51]/Mrs Lily Taubert Jolum(Unova),58[59]/Simon(Kanto),58[59]
 
-3(6)-6(2),Johto(W,Dennis)/8(8)-11(4),Kanto(W)/0(11)-3(7),Johto(W)/1(1)-3(9),Kanto(W)
-6(6)-9(2),Sinnoh(W,Katy)/11(6)-14(2),Kalos(W)/3(10)-6(6),Unova(W)/4(0)-6(8),Unova(W)
-9(6)-12(2),Unova(W,Laura)/14(5)-17(1),Unova(W)/6(9)-9(5),Kalos(W)/6(11)-9(7),Sinnoh(W,Lance)
+3(6)-6(2),Johto(W,Dennis)/8(8)-11(4),Kanto(W)/0(11)-3(7),Johto(W)/0(10)-3(6),Kanto(W)
+6(6)-9(2),Sinnoh(W,Katy)/11(6)-14(2),Kalos(W)/3(10)-6(6),Unova(W)/3(7)-6(3),Unova(W,Katy)
+9(6)-12(2),Unova(W,Laura)/14(5)-17(1),Unova(W)/6(9)-9(5),Kalos(W)/6(11)-9(7),Sinnoh(W,Otto)
 12(6)-15(2),Kalos(W,Simon)/17(4)-20(0),Sinnoh(R.U,Mrs Lily Taubert Jolum)/9(8)-12(4),Kanto(W)/9(8)-12(4),Johto(W)
 15(6)-17(2),Ransei(W,Mrs Lily Taubert Jolum)/20(3)-21(11),Pasio(*)/12(7)-15(3),Hoenn(W)/12(6)-15(2),Kalos(R.U,Sakura)
 17(6)-20(2),Kanto(R.U,*)/22(0)-24(8),Hoenn(W,Sakura)/15(6)-17(2),Ransei(R.U,Sakura)/15(5)-18(1),Hoenn(W)
@@ -652,8 +650,8 @@ Ritchie(0-6),Clyde(0-6),Scarlett(0-6),Samantha(0-7+0-7),Gabriel(0-8+0-8),Mateo(0
 
 Pasio : 
 
-Kulap,Blaze,Toshib,Cynthia,Dillon
-Ivana,Biming,Wendy,Trevor,Augusta
+Mrs Lily Taubert Jolum,Kulap,Blaze,Toshib,Cynthia,Dillon
+Simon,Biming,Trevor,Augusta,Wendy,Ivana
 
 Johto : 
 
@@ -662,8 +660,8 @@ Johto :
 
 Hoenn : 
 
-Ayaz,Unam,Bartholomew,Baekhyun,Magnolia
-Ladeidra,Aravi,Chigusa,Patricia,Merlot
+Ayaz,Unam,Bartholomew,Ladeidra,Magnolia,Clyde
+Baekhyun,Aravi,Chigusa,Patricia,Merlot,Scarlett
 
 Ransei(Stash) : 
 
@@ -692,9 +690,13 @@ Roxanne,Ferdinand,Whitney,Dorothy,Tilal,Douglas,Blink,Munro
 Tanguy,Mikhail,Khufaf,Bianca,Kalique,Titan,Fiona,Nancy
 
 ........................................................................
-Mr Otto
+Mr Humberto(Kalos)/Mr Otto(Kanto)
+4(4)-7(0),Hoenn(W)
+8(6),HoF
+8(9)-10(8),Kanto Elite4(Head)
+10(9)-12(8),7_City_Conglomerate(Head)
 
-Dennis/Lance/Katy/Laura/Simon
+25(0)->Retire{37(6),Off}
 
 Dennis,71[72->2nd Half]
 
@@ -703,12 +705,12 @@ Dennis,71[72->2nd Half]
 -8(5)-[-7(5)],Kanto Frontier(W)
 -7(2)-[-4(6)],Unova(W)
 -4(3)-[-2(7)],Ransei(R.U,Laura)
--2(4)-0(4),Sinnoh(W)
-0(7)-3(3),Kalos(W,Katy)
+-2(4)-0(4),Sinnoh(W,Humberto)
+0(7)-3(3),Kalos(W)
 3(6)-6(2),Johto(R.U,Sakura)
 6(4)-9(0),Hoenn(W)
 10(6),HoF
-10(9)-,Elite4
+10(9)-24(11),Elite4(Head)
 
 37(0)->Retire
 
@@ -717,10 +719,10 @@ Katy,68[69->First Half]
 -10(3)-[-7(7)],Johto(W)
 -7(4)-[-6(4)],Sinnoh Frontier(W)
 -6(1)-[-3(5)],Kanto(W)
--3(2)-[-0(6)],Unova(W)
+-3(2)-[-0(6)],Kalos(W)
 -0(3)-1(5),Ransei(W)
 1(8)-3(4),Pasio(W,Laura)
-3(7)-6(3),Kalos(R.U,Dennis)
+3(7)-6(3),Unova(R.U,Simon)
 6(6)-9(2),Sinnoh(R.U,Sakura)
 9(4)-12(0),Hoenn(W)
 13(6),HoF
@@ -744,18 +746,19 @@ Laura,65[66->First Half]
 
 Lance,67[68->2nd Half]
 
--8(0)-[-6(5)],Hoenn(X)
-{-6(3)-[-5(2)],T.Plasm_Ucvr@Hoenn}
--5(0)-[-1(7)],Suspended(3.5 Years)
--1(6)-1(2),Kanto(W,Mr Otto)
-1(5)-4(1),Johto(W,Mr Otto)
-4(2)-6(10),Unova(W)
-6(11)-9(7),Sinnoh(R.U,Simon)
-9(8)-12(4),Kalos(W)
-12(5)-14(1),Pasio(W)
-14(2)-15(10),Ransei(W)
-15(11)-16(11),Kanto Frontier(W)
-17(0)-19(8),Hoenn(R.U,Galaxy)
-21(2),HoF
+-8(0)-[-5(5)],Hoenn(X)
+{-5(5)-[-4(5)],T.Plasm_Ucvr@Hoenn}
+-4(3)-4(0),Suspended(7.25 Years)
+4(2)-6(10),Johto(W,Mr Otto)
+6(11)-9(7),Unova(W)
+10(2)-12(10),Kalos(W)
+13(5)-16(1),Sinnoh(W)
+16(8)-19(4),Kanto(W)
+19(11)-22(7),Hoenn(R.U,Galaxy)
+22(10)-23(10),Kanto Frontier(R.U,Galaxy)
+24(5)-26(1),Ransei(W)
+26(8)-28(1),Pasio(W)
+28(7),HoF
+29(0)-41(11),Elite4(Head)
 
 42(0),Retire
