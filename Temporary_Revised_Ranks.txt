@@ -89,9 +89,9 @@ Gabriel(Johto),44[45,February]/Mateo(Hoenn),44[45,April]
 
 14(8)-17(4),Kalos(W)/14(6)-16(2),Pasio(W)
 17(6)-20(2),Kanto(*)/16(3)-17(3),Hoenn Frontier(W)
-20(5)-23(1),Unova(W,Samantha,F)/17(6)-20(2),Kanto(*)
+20(5)-23(1),Unova(W)/17(6)-20(2),Kanto(*)
 23(4)-24(4),Johto Frontier(W)/20(8)-23(4),Kalos(W,Nigel,F)
-24(7)-26(3),Pasio(W)/23(8)-26(4),Johto(R.U,Joel)
+24(7)-26(3),Pasio(W,Samantha)/23(8)-26(4),Johto(R.U,Joel)
 26(6)-29(2),Johto(R.U,Jack)/26(7)-29(3),Unova(W)
 29(5)-31(1),Ransei(W)/29(6)-31(2),Ransei(W)
 31(4)-34(0),Sinnoh(W)/31(5)-34(1),Sinnoh(W)
@@ -103,10 +103,10 @@ Nigel(Kalos),44[45,June]/Samantha(Kalos),44[45,June]
 
 14(10)-17(6),Johto(W)/14(7)-17(4),Johto(W)
 17(9)-20(5),Kanto(W)/17(6)-20(2),Kanto(R32,*)
-20(8)-23(4),Kalos(R.U,Mateo)/20(5)-23(1),Unova(R.U,Gabriel)
+20(8)-23(4),Kalos(R.U,Mateo)/20(6)-23(2),Unova(W)
 23(9)-26(5),Unova(W)/23(4)-24(4),Kalos Frontier(W)
-26(8)-28(4),Pasio(W)/24(7)-26(3),Ransei(W)
-28(7)-30(3),Ransei(W,Ritchie,F)/26(6)-28(2),Pasio(W)
+26(8)-28(4),Pasio(W)/24(7)-26(3),Pasio(R.U,Gabriel)
+28(7)-30(3),Ransei(W,Ritchie,F)/26(7)-28(3),Ransei(W)
 30(9)-33(5),Sinnoh(R.U,*)/28(5)-31(1),Sinnoh(W,Paul,F)
 33(9)-34(9),Kalos Frontier(W)/31(3)-33(11),Kalos(W)
 34(1)-36(9),Hoenn(W)/34(2)-36(10),Hoenn(W)
@@ -358,7 +358,7 @@ Baekhyun(Ransei)/Ladeidra(Ransei)
 17(6)-19(2),Pasio(W)/17(8)-19(4),Ransei(W)
 19(3)-21(11),Kalos(W)/19(5)-22(1),Kanto(W)
 22(0)-24(8),Kanto(W)/22(2)-24(10),Johto(W)
-24(10)-27(6),Hoenn(^)/24(11)-27(7),Hoenn(*)
+24(10)-27(6),Hoenn(*)/24(11)-27(7),Hoenn(^)
 27(10)-29(6),Ransei(W,Aravi)/28(0)-30(8),Unova(R.U,Unam)
 29(9)-32(5),Unova(W,Ayaz)/30(11)-33(7),Kalos(W,Patricia)
 32(8)-35(4),Sinnoh(W)/33(10)-35(6),Pasio(W)
@@ -605,9 +605,9 @@ Titan(Pasio)/Fiona(Ransei)/Sirichai(Kanto)
 
 41(9),HoF/41(9),HoF/41(6),HoF
 
-Sakura(Kanto),55[56,First Half]/Riley(Unova),52[53,First Half]/Trevor(Sinnoh),50[51,Second Half]
+Sakura(Kanto),55[56,First Half]/Riley(Unova),52[53,First Half]/Trevor(Sinnoh),49[50,First Half]
 
-3(6)-6(2),Johto(W,Dennis)/6(9)-4(5),Sinnoh(W)/9(5)-12(1),Kanto(W)
+3(6)-6(2),Johto(W,Dennis)/6(9)-4(5),Sinnoh(W)/9(6)-12(2),Kanto(W)
 6(6)-9(2),Sinnoh(W\D,Lance)/9(8)-12(4),Unova(W)/12(4)-12(4),Sinnoh Frontier(W)
 9(6)-12(2),Unova(W,Mrs Lily Taubert Jolum)/12(7)-14(3),Ransei(W,Trevor)/12(7)-14(3),Ransei(R.U,Riley)
 13(4)-14(4),Kanto Frontier(W,Simon)/14(5)-17(1),Hoenn(R.U,Sakura)/14(9)-17(5),Johto(W)
@@ -619,14 +619,14 @@ Sakura(Kanto),55[56,First Half]/Riley(Unova),52[53,First Half]/Trevor(Sinnoh),50
 
 28(0),HoF/30(7),HoF/32(6),HoF
 
-Katya(Pasio),55[56,First Half]/Laura(Ransei),55[56,First Half]/Simon(kanto),55[56,First Half]
+Katya(Ransei),55[56,First Half]/Laura(Pasio),55[56,First Half]/Simon(Kanto),55[56,First Half]
 
 3(8)-6(4),Sinnoh(W)/3(8)-5(4),Ransei(W)/3(8)-5(4),Pasio(W)
 6(7)-8(3),Pasio(W)/5(7)-8(3),Unova(W)/5(7)-8(3),Kalos(W)
 8(6)-10(2),Ransei(W)/8(6)-10(2),Pasio(R.U,Simon)/8(6)-10(2),Pasio(W,Laura)
 10(5)-13(1),Unova(W,Simon)/10(5)-13(1),Johto(W)/10(5)-13(1),Unova(R.U,Katya)
 13(4)-16(0),Kalos(R.U,Laura)/13(4)-16(0),Kalos(W,Katya)/13(4)-14(4),Kanto Frontier(R.U,Sakura)
-16(3)-17(3),Kanto Frontier(W)/16(3)-17(3),Sinnoh Frontier(W)/14(5)-17(1),Johto(W)
+16(3)-17(3),Sinnoh Frontier(W)/16(3)-17(3),Kanto Frontier(W)/14(5)-17(1),Johto(W)
 17(6)-20(2),Kanto(*)/17(6)-20(2),Kanto(*)/17(6)-20(2),Kanto(^)
 20(5)-23(1),Johto(W)/20(6)-23(2),Sinnoh(W)/20(4)-23(0),Sinnoh(W)
 23(4)-26(0),Hoenn(W)/23(5)-26(1),Hoenn(W)/23(3)-25(11),Hoenn(W)
@@ -659,7 +659,8 @@ Ransei@5({Paul}+Fiona,[Baekhyun]+Ladeidra,Laura)
 
 Kanto :
 
-Ritchie(0-6),Clyde(0-6),Scarlett(0-6),Samantha(0-7+0-7),Gabriel(0-8+0-8),Mateo(0-0+0-9+0-3),Percy(0-0+0-0+0-3),Marc(0-0+0-0+0-0+0-1(TB)),Sakura(0-1)
+Samantha,Mateo,Katya,Laura,Marc
+Gabriel,Percy,Riley,Simon,Sakura
 
 Pasio(Ash) : 
 
@@ -667,7 +668,7 @@ Dillon,Kulap,Blaze,Toshib,Cynthia,
 
 Pasio(Stash) :
 
-Biming,Trevor,Augusta,Ivana,Wendy
+Augusta,Biming,Ivana,Trevor,Wendy
 
 Johto :
 
@@ -675,10 +676,10 @@ Johto :
 .,Gary,.,Seymour,Brishna,Cheng,Freya,Drizzle,Melody(R.U)|
 
 Hoenn (Ash) :
-Ayaz,Unam,Bartholomew,Ladeidra,Magnolia,Clyde
+Ayaz,Bartholomew,Magnolia,Unam,Ladeidra,Scarlett
 
 Hoenn (Stash) :
-Baekhyun,Aravi,Chigusa,Patricia,Merlot,Scarlett
+Baekhyun,Aravi,Patricia,Merlot,Clyde,Chigusa
 
 Ransei : 
 
@@ -694,7 +695,7 @@ Visola,Logan,Jason,Joel,Jack,Nigel
 
 Sinnoh(Ash) : 
 
-Maymuun,Solaria,Wilhelm,Sonrisa,Samroze,Tallulah
+Maymuun,Solaria,Sonrisa,Samroze,Tallulah,Wilhelm
 
 Unova(*) : 
 
