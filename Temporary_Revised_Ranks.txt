@@ -690,7 +690,7 @@ Unova@20
 Kalos@18([Percy]+Samantha,{Nigel},Kalique+Tansanee,Mikhail+Celmira,Biming+Anaya,Toshib+Onora,Bonaventura+Sulamita,Douglas+Magnolia,Seymour+Merlot,Redzep)
 
 Kanto@21
-(<Ruben@Water_Breeder_Cerulean/{Galaxy@Conglomerate}>,Kiawe+Mallow,<[Sirichai@Conglomerate]>,Ritchie@Conglomerate,Clyde+Scarlett,[Stuart McShin],Satoshi@Electric_Rasingria/Roxanne@Conglomerate,Wilhelm+Talullah,{Frantz}+Homa,Tanguy+Lusamine,Yagmur,Sakura,Simon,Lucent/{Theresa},{Sasha}/Potentia,{Saul}/Junia)
+(<Ruben@Water_Breeder_Cerulean/{Galaxy@Conglomerate}>,Kiawe+Mallow,<[Sirichai@Conglomerate]>,Ritchie@Conglomerate,Clyde+Scarlett,[Stuart McShin],{Satoshi@Electric_Rasingria}/Roxanne@Conglomerate,Wilhelm+Talullah,{Frantz}+Homa,Tanguy+Lusamine,Yagmur,Sakura,Simon,Lucent/{Theresa},{Sasha}/Potentia,{Saul}/Junia)
 
 Sinnoh@15([Jason],(Xander)/Autumn,Artemus+Abriana,{Jack}+Dorothy,Joel+Whitney,Lasha+Yvonne,Glimmer+Kulap,Blaze+Prue,Trevor)
 
