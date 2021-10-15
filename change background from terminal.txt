@@ -1,3 +1,0 @@
-gsettings range org.gnome.desktop.background picture-options
-
-gsettings set org.gnome.desktop.background picture-options "wallpaper"

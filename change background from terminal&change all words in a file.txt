@@ -1,0 +1,4 @@
+gsettings range org.gnome.desktop.background picture-options
+gsettings set org.gnome.desktop.background picture-options "wallpaper"
+
+find ./ -type f -exec sed -i -e "s/S1/S2/g" {} \;  # rename within files{S1 is replaced by S2,case sensitive,.git files in repos are corrupted thus needs to be done at a separate place}
