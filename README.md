@@ -1,4 +1,4 @@
-# Randy-Tantrum
+# Randy Sojourns: A Random Sojourn
 Randy Tantrum(A Random Tryrantum)|Guzzle Humdrum
 Jubilee Hands-On
 Strawberry Facepalm
